@@ -25,6 +25,7 @@ you can get following data using the api :
 the only thing you need to do is to change the variable to something you whant like the following exaple's:
 
  print(json["name"])
+ 
  print(json["id"])
 
 
@@ -34,5 +35,4 @@ the only thing you need to do is to change the variable to something you whant l
     2. Wait 1 to 2 Day  (can be faster)
 
 
-  5. run the cmd file and paste  npm install discord-rpc
 
